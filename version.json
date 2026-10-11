@@ -1,1 +1,1 @@
-{"version":"1.2.0","url":"https://github.com/steve13689/K5-9100-Alarm-MitM-bins/releases/download/v1.2.0/firmware.bin","notes":"Fix persistent WiFi disconnect — captive portal now works correctly on Android"}
+{"version":"1.3.0","url":"https://github.com/steve13689/K5-9100-Alarm-MitM-bins/releases/download/v1.3.0/firmware.bin","notes":"Inline CSS+JS — whole app in one request, captive portal WebView compatible"}
