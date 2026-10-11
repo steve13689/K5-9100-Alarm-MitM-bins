@@ -1,1 +1,1 @@
-{"version":"1.3.0","url":"https://github.com/steve13689/K5-9100-Alarm-MitM-bins/releases/download/v1.3.0/firmware.bin","notes":"Inline CSS+JS — whole app in one request, captive portal WebView compatible"}
+{"version":"1.4.0","url":"https://github.com/steve13689/K5-9100-Alarm-MitM-bins/releases/download/v1.4.0/firmware.bin","notes":"Stream HTML via filler callback — fix ERR_CONNECTION_ABORTED on page load"}
