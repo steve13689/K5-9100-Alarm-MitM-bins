@@ -1,1 +1,1 @@
-{"version":"1.1.0","url":"https://github.com/steve13689/K5-9100-Alarm-MitM-bins/releases/download/v1.1.0/firmware.bin","notes":"Fix WiFi socket exhaustion — page now loads reliably"}
+{"version":"1.2.0","url":"https://github.com/steve13689/K5-9100-Alarm-MitM-bins/releases/download/v1.2.0/firmware.bin","notes":"Fix persistent WiFi disconnect — captive portal now works correctly on Android"}
